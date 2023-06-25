@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/garment-design-app/static/js/main.9fcd1fae.js",
+    "main.js": "/garment-design-app/static/js/main.d548b41c.js",
     "index.html": "/garment-design-app/index.html",
-    "main.9fcd1fae.js.map": "/garment-design-app/static/js/main.9fcd1fae.js.map"
+    "main.d548b41c.js.map": "/garment-design-app/static/js/main.d548b41c.js.map"
   },
   "entrypoints": [
-    "static/js/main.9fcd1fae.js"
+    "static/js/main.d548b41c.js"
   ]
 }
